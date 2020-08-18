@@ -2,7 +2,7 @@
 
 ## 작동 링크
 
-- [추가 예정]()
+- [랑크](https://sebastianrcnt.github.io/vanilla-template/)
 
 ## 소개
 
