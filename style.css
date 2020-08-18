@@ -87,7 +87,16 @@ li {
 li > input[type="checkbox"] {
   margin: 0 10px;
   position: relative;
-  top: 15px;
+  top: 12px;
+  border-style: solid;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #bcbcbc;
+  cursor: pointer;
+}
+li > input[type="checkbox"]:checked {
+  background-color: #666666;
 }
 li > label {
   font-size: 18px;
